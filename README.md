@@ -1,2 +1,2 @@
 # _Whatsapp
-Woke like What'sapp
+Work like WhatsApp
